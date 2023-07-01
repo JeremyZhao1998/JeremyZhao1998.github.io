@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zijing Zhao (赵子敬)"
   avatar           : "profile2023.jpg"
-  bio              : "Postgraduate at Peking University"
+  bio              : "Postgraduate at PKU (Peking University)"
   location         : "Beijing, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -99,7 +99,7 @@ author:
   github           : "JeremyZhao1998"
   google_plus      :
   keybase          :
-  instagram        : jeremyzhao1998
+  instagram        : "jeremyzhao1998"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
