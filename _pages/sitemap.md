@@ -7,4 +7,4 @@ author_profile: true
 
 Thanks for your attention.
 
-For all the information for me, please see [Jeremy's Personal Site](jeremyzhao1998.github.io).
+Contact with me by email: zijingzhao@stu.pku.edu.cn or zhaozijing1998@qq.com
