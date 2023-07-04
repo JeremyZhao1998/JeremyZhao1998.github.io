@@ -21,17 +21,16 @@ My research interests include computer vision, vision-language models, machine l
 
 ## Contact Information
 
-Address: No. 128 Zhongguancun North Street, Haidian District, Beijing, 100871, China
-
+Address: No. 128 Zhongguancun North Street, Haidian District, Beijing, 100871, China  
 E-mail: zijingzhao "at" stu.pku.edu.cn
 
 ## Publications
 
 †: corresponding author
 
-**Masked Retraining Teacher-Student Framework for Domain Adaptive Object Detection**
-**Zijing Zhao**, Sitong Wei, Qingchao Chen, Dehui Li, Yifan Yang, Yuxin Peng, Yang Liu†
-International Conference on Computer Vision (**ICCV**), 2023
+**Masked Retraining Teacher-Student Framework for Domain Adaptive Object Detection**  
+**Zijing Zhao**, Sitong Wei, Qingchao Chen, Dehui Li, Yifan Yang, Yuxin Peng, Yang Liu†  
+International Conference on Computer Vision (**ICCV**), 2023  
 [[arxiv](https://iccv2023.thecvf.com/)] [[code](https://iccv2023.thecvf.com/)]
 
 ## Personal Experiences
