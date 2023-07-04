@@ -16,15 +16,13 @@ I received B.Eng. in [School of Computer Science and Engineering](https://scse.b
 
 My research interests include computer vision, vision-language models, machine learning and their lightweight applications in practical scenarios.
 
-Contact Information
-======
+## Contact Information
+****
 
 Address: No. 128 Zhongguancun North Street, Haidian District, Beijing, 100871, China
 
 E-mail: zijingzhao "at" stu.pku.edu.cn
 
-Publications
-=======
+### Publications
 
-Personal Experiences
-======
+#### Personal Experiences
