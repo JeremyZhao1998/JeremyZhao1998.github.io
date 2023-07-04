@@ -12,7 +12,8 @@ redirect_from:
 
 Postgraduate student of [Peking University](https://www.pku.edu.cn/) (PKU). 
 
-I entered [Academy for Advanced Interdisciplinary Studies](http://www.aais.pku.edu.cn/) (AAIS), PKU in June 2022 for a master's degree of Data Science (Computer Science and Technology), supervised by [Prof. Yang Liu](http://www.csyangliu.com/) at [Wangxuan Institite of Computer Technology](https://www.icst.pku.edu.cn/) (WICT), PKU. I'm also a member of [Multimedia Information Processing Lab](http://59.108.48.34/tiki/pengyuxin/) (MIPL), led by [Prof. Yuxin Peng](http://59.108.48.34/tiki/yuxinpeng/).
+I entered [Academy for Advanced Interdisciplinary Studies](http://www.aais.pku.edu.cn/) (AAIS), PKU in June 2022 for a master's degree of Data Science (Computer Science and Technology), supervised by [Prof. Yang Liu](http://www.csyangliu.com/) at [Wangxuan Institite of Computer Technology](https://www.icst.pku.edu.cn/) (WICT), PKU. 
+I'm also a member of [Multimedia Information Processing Lab](http://59.108.48.34/tiki/pengyuxin/) (MIPL), led by [Prof. Yuxin Peng](http://59.108.48.34/tiki/yuxinpeng/).
 
 I received B.Eng. in [School of Computer Science and Engineering](https://scse.buaa.edu.cn/) (SCSE), [Beihang University](https://www.buaa.edu.cn/) (also known as Beijing University of Aeronautics and Astronautics, BUAA).
 
@@ -25,5 +26,12 @@ Address: No. 128 Zhongguancun North Street, Haidian District, Beijing, 100871, C
 E-mail: zijingzhao "at" stu.pku.edu.cn
 
 ## Publications
+
+†: corresponding author
+
+**Masked Retraining Teacher-Student Framework for Domain Adaptive Object Detection**
+**Zijing Zhao**, Sitong Wei, Qingchao Chen, Dehui Li, Yifan Yang, Yuxin Peng, Yang Liu†
+International Conference on Computer Vision (**ICCV**), 2023
+[[arxiv](https://iccv2023.thecvf.com/)] [[code](https://iccv2023.thecvf.com/)]
 
 ## Personal Experiences
