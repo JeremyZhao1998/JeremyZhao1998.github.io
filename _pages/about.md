@@ -33,4 +33,20 @@ E-mail: zijingzhao "at" stu.pku.edu.cn
 Xxx Conference on Xxx and Xxx (**XXXX**), 2023  
 [[arxiv](https://iccv2023.thecvf.com/)] [[code](https://iccv2023.thecvf.com/)]
 
-## Personal Experiences
+See more details at [Publications](https://jeremyzhao1998.github.io/publications/).
+
+## Open Source Projects
+
+**DA-nanodet: Domain Adaptive nanodet** [[code](https://github.com/JeremyZhao1998/DA-nanodet)]  
+Unsupervised domain adaptation on super lightweight object detector [nanodet](https://github.com/RangiLyu/nanodet).  
+Released on Jun 2023, still updating.
+
+**Nystromformer-Paddle: Reproducing Nystromformer based on PaddlePaddle** [[code](https://github.com/JeremyZhao1998/Nystromformer-Paddle)]  
+Reproducing [Nystromformer](https://arxiv.org/pdf/2102.03902v3.pdf) (A Nyström-Based Algorithm for Approximating Self-Attention, AAAI 2021 paper) based on [PaddlePaddle](https://www.paddlepaddle.org.cn/) (An open source deep learning platform maintained by [Baidu](http://home.baidu.com/)).  
+This project participated in [the 5th PaddlePaddle Paper Reproduction Competition](https://aistudio.baidu.com/aistudio/competition/detail/126/0/introduction) and won the first place at the NLP track. It has been merged into [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP).  
+Released on Feb 2022, stable release.
+
+**PaddleFSL: A Python library for few-shot learning (FSL)** [[code](https://github.com/tata1661/FSL-Mate/tree/master/PaddleFSL)]  
+A Python library for few-shot learning (FSL), especially meta-learning, built upon [PaddlePaddle](https://www.paddlepaddle.org.cn/) (An open source deep learning platform maintained by [Baidu](http://home.baidu.com/)).  
+This project is a part of [FSL-Mate](https://github.com/tata1661/FSL-Mate) (a collection of resources for few-shot learning (FSL), including a paper list which tracks the research advances on FSL).  
+Released on Aug 2021, stable release.
