@@ -42,7 +42,7 @@ Unsupervised domain adaptation on super lightweight object detector [nanodet](ht
 Released on Jun 2023, still updating.
 
 **Nystromformer-Paddle: Reproducing Nystromformer based on PaddlePaddle** [[code](https://github.com/JeremyZhao1998/Nystromformer-Paddle)]  
-Reproducing [Nystromformer](https://arxiv.org/pdf/2102.03902v3.pdf) (A Nyström-Based Algorithm for Approximating Self-Attention, AAAI 2021 paper) based on [PaddlePaddle](https://www.paddlepaddle.org.cn/) (An open source deep learning platform maintained by [Baidu](http://home.baidu.com/)).  
+Reproducing [Nystromformer](https://arxiv.org/pdf/2102.03902v3.pdf) (A Nyström-Based Algorithm for Approximating Self-Attention, AAAI 2021) based on [PaddlePaddle](https://www.paddlepaddle.org.cn/) (An open source deep learning platform maintained by [Baidu](http://home.baidu.com/)).  
 This project participated in [the 5th PaddlePaddle Paper Reproduction Competition](https://aistudio.baidu.com/aistudio/competition/detail/126/0/introduction) and won the first place at the NLP track. It has been merged into [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP).  
 Released on Feb 2022, stable release.
 
@@ -50,3 +50,17 @@ Released on Feb 2022, stable release.
 A Python library for few-shot learning (FSL), especially meta-learning, built upon [PaddlePaddle](https://www.paddlepaddle.org.cn/) (An open source deep learning platform maintained by [Baidu](http://home.baidu.com/)).  
 This project is a part of [FSL-Mate](https://github.com/tata1661/FSL-Mate) (a collection of resources for few-shot learning (FSL), including a paper list which tracks the research advances on FSL).  
 Released on Aug 2021, stable release.
+
+**IndoorRobotSimulation: An indoor robot control simulation system.** [[code](https://github.com/JeremyZhao1998/IndoorRobotSimulation)]  
+An indoor robot control system based on [ROS-Kinetic](https://www.ros.org/) and a simulation demo based on [Gazebo](https://gazebosim.org/home).  
+Released on Jul 2020, stable release.
+
+## Working/Internship Experiences
+
+Algorithm Engineering Intern, Technology and Engineering Group (TEG), [Tencent](https://www.tencent.com/)  
+Feb 2022 - Aug 2022    Beijing, China  
+I built a quantization acceleration toolkit based on [CUDA](https://developer.nvidia.com/cuda-toolkit) and [CUBLAS](https://developer.nvidia.com/cublas) for the inference of Transformer models. It includes a high performance tokenizer and a dynamic FP16/INT8 mixed quantization, which realize an end-to-end acceleration with configurable accuracy and inference speed.
+
+Research Intern, Business Intelligence Lab, [Baidu Research](http://research.baidu.com/)  
+Mar 2021 - Sep 2021    Beijing, China  
+I participated projects on meta learning, and built PaddleFSL: A Python library for few-shot learning (FSL) based on [PaddlePaddle](https://www.paddlepaddle.org.cn/) (An open source deep learning platform maintained by [Baidu](http://home.baidu.com/)). I also participated in projects on Graph Nerual Networks and Molecular Property Prediction tasks.
