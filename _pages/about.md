@@ -58,9 +58,9 @@ Released on Jul 2020, stable release.
 ## Working/Internship Experiences
 
 **Algorithm Engineering Intern, Technology and Engineering Group (TEG), [Tencent](https://www.tencent.com/)**  
-Feb 2022 - Aug 2022    Beijing, China  
+Feb 2022 - Aug 2022 &nbsp &nbsp &nbsp &nbsp Beijing, China  
 I built an end-to-end acceleration toolkit based on [CUDA](https://developer.nvidia.com/cuda-toolkit) and [CUBLAS](https://developer.nvidia.com/cublas) for the inference of Transformer models. It includes a high performance tokenizer and a dynamic FP16/INT8 mixed quantization with configurable accuracy and inference speed.
 
 **Research Intern, Business Intelligence Lab, [Baidu Research](http://research.baidu.com/)**  
-Mar 2021 - Sep 2021    Beijing, China  
-I built [PaddleFSL](https://github.com/tata1661/FSL-Mate/tree/master/PaddleFSL): A Python library for few-shot learning (FSL) based on [PaddlePaddle](https://www.paddlepaddle.org.cn/). I also participated in projects on Graph Nerual Networks and Molecular Property Prediction tasks.
+Mar 2021 - Sep 2021 &nbsp &nbsp &nbsp &nbsp Beijing, China  
+Supervised by [Dr. Yaqing Wang](https://wangyaqing.github.io/) and [Prof. Dejing Dou](http://ix.cs.uoregon.edu/~dou/index.html). I built [PaddleFSL](https://github.com/tata1661/FSL-Mate/tree/master/PaddleFSL): A Python library for few-shot learning (FSL) based on [PaddlePaddle](https://www.paddlepaddle.org.cn/). I also participated in projects on Graph Nerual Networks and Molecular Property Prediction tasks.
