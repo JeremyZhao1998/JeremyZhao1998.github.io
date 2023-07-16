@@ -30,7 +30,7 @@ My research interests include computer vision, vision-language models, machine l
 
 - **Masked Retraining Teacher-Student Framework for Domain Adaptive Object Detection**  
 **Zijing Zhao**, Sitong Wei, Qingchao Chen, Dehui Li, Yifan Yang, Yuxin Peng, Yang Liu†  
-Xxx Conference on Xxx and Xxx (**XXXX**), 2023  
+International Conference on Computer Vision (**ICCV**), 2023  
 [[arxiv](https://iccv2023.thecvf.com/)] [[code](https://iccv2023.thecvf.com/)]
 
 See more details at [Publications](https://jeremyzhao1998.github.io/publications/).
