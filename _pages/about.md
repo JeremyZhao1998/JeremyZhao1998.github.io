@@ -17,7 +17,7 @@ I'm also a member of [Multimedia Information Processing Lab](http://59.108.48.34
 
 I received B.Eng. in [School of Computer Science and Engineering](https://scse.buaa.edu.cn/) (SCSE), [Beihang University](https://www.buaa.edu.cn/) (also known as Beijing University of Aeronautics and Astronautics, BUAA).
 
-My research interests include computer vision, vision-language models, machine learning and their lightweight applications in practical scenarios.
+My research interests include computer vision, multi-modal learning and their lightweight applications in practical scenarios.
 
 ## Contact Information
 
@@ -26,13 +26,12 @@ My research interests include computer vision, vision-language models, machine l
 
 ## Publications
 
-†: corresponding author
-
 - **Masked Retraining Teacher-Student Framework for Domain Adaptive Object Detection**  
 **Zijing Zhao**, Sitong Wei, Qingchao Chen, Dehui Li, Yifan Yang, Yuxin Peng, Yang Liu†  
 International Conference on Computer Vision (**ICCV**), 2023  
-[[arxiv](https://iccv2023.thecvf.com/)] [[code](https://iccv2023.thecvf.com/)]
+[paper] [supp] [arxiv] [[code](https://github.com/JeremyZhao1998/MRT-release)] [[homepage](https://jeremyzhao1998.github.io/MRT-release/)]
 
+†: corresponding author
 See more details at [Publications](https://jeremyzhao1998.github.io/publications/).
 
 ## Open Source Projects
@@ -47,12 +46,12 @@ This project participated in [the 5th PaddlePaddle Paper Reproduction Competitio
 Released on Feb 2022, stable release.
 
 - **PaddleFSL: A Python library for few-shot learning (FSL)** [[code](https://github.com/tata1661/FSL-Mate/tree/master/PaddleFSL)]  
-A Python library for few-shot learning (FSL), especially meta-learning, built upon [PaddlePaddle](https://www.paddlepaddle.org.cn/).  
+A Python library for few-shot learning (FSL), built upon [PaddlePaddle](https://www.paddlepaddle.org.cn/).  
 This project is a part of [FSL-Mate](https://github.com/tata1661/FSL-Mate) (a collection of resources for few-shot learning).  
 Released on Aug 2021, stable release.
 
 - **IndoorRobotSimulation: An indoor robot control simulation system.** [[code](https://github.com/JeremyZhao1998/IndoorRobotSimulation)]  
-An indoor robot control system based on [ROS-Kinetic](https://www.ros.org/) and a simulation demo based on [Gazebo](https://gazebosim.org/home).  
+A robot control system based on [ROS-Kinetic](https://www.ros.org/) and a simulation demo based on [Gazebo](https://gazebosim.org/home).  
 Released on Jul 2020, stable release.
 
 ## Working/Internship Experiences
