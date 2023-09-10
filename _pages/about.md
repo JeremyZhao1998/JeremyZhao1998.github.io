@@ -32,6 +32,7 @@ International Conference on Computer Vision (**ICCV**), 2023
 [paper] [supp] [arxiv] [[code](https://github.com/JeremyZhao1998/MRT-release)] [[homepage](https://jeremyzhao1998.github.io/MRT-release/)]
 
 †: corresponding author
+
 See more details at [Publications](https://jeremyzhao1998.github.io/publications/).
 
 ## Open Source Projects
