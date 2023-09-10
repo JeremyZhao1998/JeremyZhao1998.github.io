@@ -66,15 +66,15 @@ Supervised by [Dr. Yaqing Wang](https://wangyaqing.github.io/) and [Prof. Dejing
 
 ## Other Experiences
 
-- **Team member and Captain, Men's Basketball Team of [AAIS](http://www.aais.pku.edu.cn/), Peking University**
+- **Team member and Captain, Men's Basketball Team of [AAIS](http://www.aais.pku.edu.cn/), Peking University**  
 2022.09 - 2023.09 (1 year, as a team member); 2023.09 till now (as the captain) &nbsp;&nbsp;&nbsp;&nbsp; Beijing, China  
 We finished the third place in the men's second group basketball competition of the "Peking University Cup", 2023.
 
-- **Senior Student Member, Enrollment and Career Center, Beihang University**
+- **Senior Student Member, Enrollment and Career Center, Beihang University**  
 2019.06 - 2020.06 (1 year) &nbsp;&nbsp;&nbsp;&nbsp; Beijing, China  
 I participated in three-year [undergraduate enrollment](https://zs.buaa.edu.cn/). I also led the production of enrollment video of [SCSE](https://scse.buaa.edu.cn/).  
 
-- **Member and Director of the Office, Bluesky Volunteers' Association, Beihang University**
+- **Member and Director of the Office, Bluesky Volunteers' Association, Beihang University**  
 2017.09 - 2018.06 (9 months, as a member); 2018.06 - 2019.06 (1 year, as the director) &nbsp;&nbsp;&nbsp;&nbsp; Beijing, China  
 [Bluesky Volunteers' Association](https://baike.baidu.com/item/%E5%8C%97%E8%88%AA%E8%93%9D%E5%A4%A9%E5%BF%97%E6%84%BF%E8%80%85%E5%8D%8F%E4%BC%9A/3620192) of Beihang University is a registered member unit of the Beijing Volunteer Federation.  
 I have led more than ten volunteer service projects, many of which have won awards at the school and city levels.  
