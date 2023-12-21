@@ -12,12 +12,12 @@ redirect_from:
 
 Postgraduate student of [Peking University](https://www.pku.edu.cn/) (PKU). 
 
-I entered [Academy for Advanced Interdisciplinary Studies](http://www.aais.pku.edu.cn/) (AAIS), PKU in June 2022 for a master's degree of Data Science (Computer Science and Technology), supervised by [Prof. Yang Liu](http://www.csyangliu.com/) at [Wangxuan Institite of Computer Technology](https://www.icst.pku.edu.cn/) (WICT), PKU. 
+I entered [Academy for Advanced Interdisciplinary Studies](http://www.aais.pku.edu.cn/) (AAIS), PKU in September 2022 for a master's degree of Data Science (Computer Science and Technology), supervised by [Prof. Yang Liu](http://www.csyangliu.com/) at [Wangxuan Institite of Computer Technology](https://www.icst.pku.edu.cn/) (WICT), PKU. 
 I'm also a member of [Multimedia Information Processing Lab](http://59.108.48.34/tiki/pengyuxin/) (MIPL), led by [Prof. Yuxin Peng](http://59.108.48.34/tiki/yuxinpeng/).
 
 I received B.Eng. in [School of Computer Science and Engineering](https://scse.buaa.edu.cn/) (SCSE), [Beihang University](https://www.buaa.edu.cn/) (also known as Beijing University of Aeronautics and Astronautics, BUAA).
 
-My research interests include computer vision, multi-modal learning and their lightweight applications in practical scenarios.
+My research interests include **computer vision**, **multi-modal learning** and their **lightweight applications in practical scenarios**.
 
 ## Contact Information
 
@@ -29,7 +29,12 @@ My research interests include computer vision, multi-modal learning and their li
 - **Masked Retraining Teacher-Student Framework for Domain Adaptive Object Detection**  
 **Zijing Zhao**, Sitong Wei, Qingchao Chen, Dehui Li, Yifan Yang, Yuxin Peng, Yang Liu†  
 International Conference on Computer Vision (**ICCV**), 2023  
-[pdf] [supp] [arxiv] [[code](https://github.com/JeremyZhao1998/MRT-release)] [[homepage](https://jeremyzhao1998.github.io/MRT-release/)]
+[[pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Masked_Retraining_Teacher-Student_Framework_for_Domain_Adaptive_Object_Detection_ICCV_2023_paper.pdf)] [[supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Zhao_Masked_Retraining_Teacher-Student_ICCV_2023_supplemental.pdf)] [[code](https://github.com/JeremyZhao1998/MRT-release)] [[homepage](https://jeremyzhao1998.github.io/MRT-release/)]
+
+- **SAMP: A Model Inference Toolkit of Post-Training Quantization for Text Processing via Self-Adaptive Mixed-Precision**
+Rong Tian†, **Zijing Zhao**, Weijie Liu, Haoyan Liu, Weiquan Mao, Zhe Zhao, Kan Zhou
+Conference on Empirical Methods in Natural Language Processing: Industry Track (**EMNLP** Industry Track), 2023
+[[pdf](https://aclanthology.org/2023.emnlp-industry.13.pdf)]
 
 †: corresponding author  
 See more details at [Publications](https://jeremyzhao1998.github.io/publications/).
