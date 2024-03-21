@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zijing Zhao (赵子敬)"
+title: "Zijing (Jeremy) Zhao 赵子敬"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,12 +12,12 @@ redirect_from:
 
 Postgraduate student of [Peking University](https://www.pku.edu.cn/) (PKU). 
 
-I entered [Academy for Advanced Interdisciplinary Studies](http://www.aais.pku.edu.cn/) (AAIS), PKU in September 2022 for a master's degree of Data Science (Computer Science and Technology), supervised by [Prof. Yang Liu](http://www.csyangliu.com/) at [Wangxuan Institite of Computer Technology](https://www.icst.pku.edu.cn/) (WICT), PKU. 
-I'm also a member of [Multimedia Information Processing Lab](http://59.108.48.34/tiki/pengyuxin/) (MIPL), led by [Prof. Yuxin Peng](http://59.108.48.34/tiki/yuxinpeng/).
+I entered [Academy for Advanced Interdisciplinary Studies](http://www.aais.pku.edu.cn/) (AAIS), PKU in September 2022 for a master's degree of Data Science (Computer Science and Technology), supervised by Assistant Prof. [Yang Liu](http://www.csyangliu.com/) at [Wangxuan Institite of Computer Technology](https://www.icst.pku.edu.cn/) (WICT), PKU. 
+I'm also a member of [Multimedia Information Processing Lab](http://59.108.48.34/tiki/pengyuxin/) (MIPL), led by Prof. [Yuxin Peng](http://59.108.48.34/tiki/yuxinpeng/).
 
-I received B.Eng. in [School of Computer Science and Engineering](https://scse.buaa.edu.cn/) (SCSE), [Beihang University](https://www.buaa.edu.cn/) (also known as Beijing University of Aeronautics and Astronautics, BUAA).
+I obtained B.Eng. degree in [School of Computer Science and Engineering](https://scse.buaa.edu.cn/) (SCSE), [Beihang University](https://www.buaa.edu.cn/) (also known as Beijing University of Aeronautics and Astronautics, BUAA) in July 2021.
 
-My research interests include **computer vision**, **multi-modal learning** and their **lightweight applications in practical scenarios**.
+My research interests include **Computer Vision**, **Vision-Language Multimodal Learning** and **Lightweight Models** in practical scenarios.
 
 ## Contact Information
 
@@ -41,10 +41,6 @@ See more details at [Publications](https://jeremyzhao1998.github.io/publications
 
 ## Open Source Projects
 
-- **DA-nanodet: Domain Adaptive nanodet** [[code](https://github.com/JeremyZhao1998/DA-nanodet)]  
-Unsupervised domain adaptation on super lightweight object detector [nanodet](https://github.com/RangiLyu/nanodet).  
-Released on 2023.06, still updating.
-
 - **Nystromformer-Paddle: Reproducing Nystromformer based on PaddlePaddle** [[code](https://github.com/JeremyZhao1998/Nystromformer-Paddle)]  
 Reproducing [Nystromformer](https://arxiv.org/pdf/2102.03902v3.pdf) (A Nyström-Based Algorithm for Approximating Self-Attention, AAAI 2021) based on [PaddlePaddle](https://www.paddlepaddle.org.cn/).  
 This project participated in [the 5th PaddlePaddle Paper Reproduction Competition](https://aistudio.baidu.com/aistudio/competition/detail/126/0/introduction) and won the first place at NLP track. It has been merged into [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP).  
@@ -63,7 +59,7 @@ Released on 2020.07, stable release.
 
 - **Algorithm Engineering Intern, Technology and Engineering Group (TEG), [Tencent](https://www.tencent.com/)**  
 2022.02 - 2022.08 (6 months) &nbsp;&nbsp;&nbsp;&nbsp; Beijing, China  
-I built an end-to-end acceleration toolkit based on [CUDA](https://developer.nvidia.com/cuda-toolkit) and [CUBLAS](https://developer.nvidia.com/cublas) for the inference of Transformer models. It includes a high performance tokenizer and a dynamic FP16/INT8 mixed quantization with configurable accuracy and inference speed.
+I built an end-to-end acceleration toolkit based on [CUDA](https://developer.nvidia.com/cuda-toolkit) and [CUBLAS](https://developer.nvidia.com/cublas) for the inference of Transformer models, including parallelled acceleration for tokenizers and mixed precision of INT8 quantization for Transformers.
 
 - **Research Intern, Business Intelligence Lab, [Baidu Research](http://research.baidu.com/)**  
 2021.03 - 2021.09 (6 months) &nbsp;&nbsp;&nbsp;&nbsp; Beijing, China  
@@ -71,15 +67,19 @@ Supervised by [Dr. Yaqing Wang](https://wangyaqing.github.io/) and [Prof. Dejing
 
 ## Other Experiences
 
+- **Senior Member, AI Department of [Innovation Club](https://mp.weixin.qq.com/s/jiP2nbXgqYzxNJx_WZkWoA), Peking University**  
+2023.09 till now &nbsp;&nbsp;&nbsp;&nbsp; Beijing, China  
+Involved in organizing numerous Advanced AI technology seminars and AI track innovation and entrepreneurship investment events.  
+
 - **Captain, Men's Basketball Team of [AAIS](http://www.aais.pku.edu.cn/), Peking University**  
 2023.09 till now &nbsp;&nbsp;&nbsp;&nbsp; Beijing, China  
 **Team member, Men's Basketball Team of [AAIS](http://www.aais.pku.edu.cn/), Peking University**  
 2022.09 - 2023.09 (1 year) &nbsp;&nbsp;&nbsp;&nbsp; Beijing, China  
 We finished the third place in the men's second group basketball competition of the "Peking University Cup", 2023.  
 
-- **Senior Student Member, Enrollment and Career Center, Beihang University**  
+- **Senior Student Member, [Enrollment and Career Center](https://zs.buaa.edu.cn/), Beihang University**  
 2019.06 - 2020.06 (1 year) &nbsp;&nbsp;&nbsp;&nbsp; Beijing, China  
-I participated in three-year [undergraduate enrollment](https://zs.buaa.edu.cn/). I also led the production of enrollment video of [SCSE](https://scse.buaa.edu.cn/).  
+I participated in three-year undergraduate enrollment. I also led the production of enrollment video of [SCSE](https://scse.buaa.edu.cn/).  
 
 - **Director of the Office, Bluesky Volunteers' Association, Beihang University**  
 2018.06 - 2019.06 (1 year) &nbsp;&nbsp;&nbsp;&nbsp; Beijing, China  
