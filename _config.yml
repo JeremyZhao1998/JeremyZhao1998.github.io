@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jeremy's Personal Site"
+title                    : "Jeremy's Personal Webpage"
 title_separator          : "-"
 name                     : &name "Jeremy Zhao"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zijing (Jeremy) Zhao 赵子敬"
+  name             : "Zijing (Jeremy) Zhao"
   avatar           : "profile2024.jpg"
   bio              : "Postgraduate student at PKU (Peking University)"
   location         : "Beijing, China"
