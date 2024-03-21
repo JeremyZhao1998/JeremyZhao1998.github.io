@@ -71,7 +71,7 @@ Supervised by [Dr. Yaqing Wang](https://wangyaqing.github.io/) and [Prof. Dejing
 2023.09 till now &nbsp;&nbsp;&nbsp;&nbsp; Beijing, China  
 Involved in organizing numerous Advanced AI technology seminars and AI track innovation and entrepreneurship investment events.  
 
-- **Captain, Men's Basketball Team of [AAIS](http://www.aais.pku.edu.cn/), Peking University**  
+- **Team leader and manager, Men's Basketball Team of [AAIS](http://www.aais.pku.edu.cn/), Peking University**  
 2023.09 till now &nbsp;&nbsp;&nbsp;&nbsp; Beijing, China  
 **Team member, Men's Basketball Team of [AAIS](http://www.aais.pku.edu.cn/), Peking University**  
 2022.09 - 2023.09 (1 year) &nbsp;&nbsp;&nbsp;&nbsp; Beijing, China  
