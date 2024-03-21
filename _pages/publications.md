@@ -11,8 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
-Publication list will be coming soon.
+## Masked Retraining Teacher-student Framework for Domain Adaptive Object Detection  
+**Zijing Zhao**, Sitong Wei, Qingchao Chen, Dehui Li, Yifan Yang, Yuxin Peng, Yang Liu†  
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## SAMP: A Model Inference Toolkit of Post-Training Quantization for Text Processing via Self-Adaptive Mixed-Precision
+Rong Tian†, **Zijing Zhao**, Weijie Liu, Haoyan Liu, Weiquan Mao, Zhe Zhao, Kan Zhou
