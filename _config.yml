@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zijing Zhao (赵子敬)"
-  avatar           : "profile2023.jpg"
+  name             : "Zijing (Jeremy) Zhao 赵子敬"
+  avatar           : "profile2024.jpg"
   bio              : "Postgraduate student at PKU (Peking University)"
   location         : "Beijing, China"
   employer         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  # orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-9810-1122"
   pinterest        :
   soundcloud       :
   # stackoverflow    : # http://stackoverflow.com/users/123456/username
