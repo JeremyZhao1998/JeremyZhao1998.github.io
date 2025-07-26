@@ -10,12 +10,12 @@ redirect_from:
 
 ****
 
-Researcher at Intelligent Computing Infrastructure Laboratory (ICI Lab), [Lenovo Research](https://research.lenovo.com/).  
+Researcher at [Lenovo Research](https://research.lenovo.com/webapp/view_English/index.html).  
 
-I joined ICI Lab lead by [Dr. Weifeng Zhang](https://research.lenovo.com/webapp/view_English/personal.html?id=541) of [Lenovo Research](https://research.lenovo.com/) in July 2025.  
+I joined Intelligent Computing Infrastructure Laboratory (ICI Lab) lead by [Dr. Weifeng Zhang](https://research.lenovo.com/webapp/view_English/personal.html?id=541) of [Lenovo Research](https://research.lenovo.com/webapp/view_English/index.html) in July 2025.  
 
 I received my master's degree of Data Science (Computer Science and Technology) at [Peking University](https://english.pku.edu.cn/) (PKU), Beijing, China in July 2025.
-During this education experience, I studied in [Academy for Advanced Interdisciplinary Studies](http://www.aais.pku.edu.cn/) (AAIS), PKU, supervised by Assistant Prof. [Yang Liu](http://www.csyangliu.com/) at [Wangxuan Institite of Computer Technology](https://www.icst.pku.edu.cn/) (WICT), PKU.  
+I studied in [Academy for Advanced Interdisciplinary Studies](http://www.aais.pku.edu.cn/) (AAIS), PKU, supervised by Assistant Prof. [Yang Liu](http://www.csyangliu.com/) at [Wangxuan Institite of Computer Technology](https://www.icst.pku.edu.cn/) (WICT), PKU, from September 2022 to July 2025.    
 
 I obtained my bachelor's degree of Computer Science and Techonology in [School of Computer Science and Engineering](https://scse.buaa.edu.cn/) (SCSE), [Beihang University](https://www.buaa.edu.cn/) (also known as Beijing University of Aeronautics and Astronautics, BUAA) in July 2021.  
 
@@ -31,14 +31,19 @@ My research now focus on **Privacy Enhanced Computing** and **Model Generalizati
 
 The publications are listed in time order, † denotes corresponding author.  
 
+- **AR-VRM: Imitating Human Motions for Visual Robot Manipulation with Analogical Reasoning**
+Dejie Yang, **Zijing Zhao**, Yang Liu†  
+The IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025 (CCF-A)  
+[[paper link](https://iccv.thecvf.com/virtual/2025/poster/2665)]  
+
 - **PlanLLM: Video Procedure Planning with Refinable Large Language Models**  
 Dejie Yang, **Zijing Zhao**, Yang Liu†  
 The AAAI Conference on Artificial Intelligence (**AAAI**), 2025 (CCF-A)  
-[[pdf](https://ojs.aaai.org/index.php/AAAI/article/download/32992/35147)] [[code](https://github.com/idejie/PlanLLM)]  
+[[pdf](https://ojs.aaai.org/index.php/AAAI/article/download/32992/35147)] [[code](https://github.com/idejie/PlanLLM)] [[project page](https://idejie.com/PlanLLM_pages/)]  
 
 - **Masked Retraining Teacher-Student Framework for Domain Adaptive Object Detection**  
 **Zijing Zhao**, Sitong Wei, Qingchao Chen, Dehui Li, Yifan Yang, Yuxin Peng, Yang Liu†  
-International Conference on Computer Vision (**ICCV**), 2023 (CCF-A)  
+The IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023 (CCF-A)  
 [[pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Masked_Retraining_Teacher-Student_Framework_for_Domain_Adaptive_Object_Detection_ICCV_2023_paper.pdf)] [[supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Zhao_Masked_Retraining_Teacher-Student_ICCV_2023_supplemental.pdf)] [[code](https://github.com/JeremyZhao1998/MRT-release)] [[homepage](https://jeremyzhao1998.github.io/MRT-release/)]  
 
 - **SAMP: A Model Inference Toolkit of Post-Training Quantization for Text Processing via Self-Adaptive Mixed-Precision**  
@@ -66,7 +71,7 @@ Released on 2020.07, stable release.
 
 ## Working/Internship Experiences
 
-- **Researcher and member of Global Future Leader (GFL) program, [Lenovo Research](https://research.lenovo.com/)**
+- **Researcher and member of Global Future Leader (GFL) program, [Lenovo Research](https://research.lenovo.com/)**  
 2025.07 till now &nbsp;&nbsp;&nbsp;&nbsp; Beijing, China  
 I am with Intelligent Computing Infrastructure Laboratory (ICI Lab), focusing on Privacy Enhanced Computing.
 
@@ -80,22 +85,18 @@ Supervised by [Dr. Yaqing Wang](https://wangyaqing.github.io/) and [Prof. Dejing
 
 ## Other Experiences
 
-- **Senior Member, AI Department of [Innovation Club](https://mp.weixin.qq.com/s/jiP2nbXgqYzxNJx_WZkWoA), Peking University**  
+- 💡 **Senior Member, AI Department of [Innovation Club](https://mp.weixin.qq.com/s/jiP2nbXgqYzxNJx_WZkWoA), Peking University**  
 2023.09 - 2024.10 (1 year) &nbsp;&nbsp;&nbsp;&nbsp; Beijing, China  
 Involved in organizing numerous Advanced AI technology seminars and AI track innovation and entrepreneurship investment events.  
 
-- **Team leader and manager, Men's Basketball Team of [AAIS](http://www.aais.pku.edu.cn/), Peking University**  
+- 🏀 **Team leader and manager, Men's Basketball Team of [AAIS](http://www.aais.pku.edu.cn/), Peking University**  
 2023.09 - 2024.10 (1 year) &nbsp;&nbsp;&nbsp;&nbsp; Beijing, China  
-**Team member, Men's Basketball Team of [AAIS](http://www.aais.pku.edu.cn/), Peking University**  
+🏀 **Team member, Men's Basketball Team of [AAIS](http://www.aais.pku.edu.cn/), Peking University**  
 2022.09 - 2025.06 (3 years) &nbsp;&nbsp;&nbsp;&nbsp; Beijing, China  
 
-- **Senior Student Member, [Enrollment and Career Center](https://zs.buaa.edu.cn/), Beihang University**  
-2019.06 - 2020.06 (1 year) &nbsp;&nbsp;&nbsp;&nbsp; Beijing, China  
-I participated in three-year undergraduate enrollment. I also led the production of enrollment video of [SCSE](https://scse.buaa.edu.cn/).  
-
-- **Director of the Office, Bluesky Volunteers' Association, Beihang University**  
+- 💙 **Director of the Office, Bluesky Volunteers' Association, Beihang University**  
 2018.06 - 2019.06 (1 year) &nbsp;&nbsp;&nbsp;&nbsp; Beijing, China  
-**Member of the Office, Bluesky Volunteers' Association, Beihang University**  
+💙 **Member of the Office, Bluesky Volunteers' Association, Beihang University**  
 2017.09 - 2019.06 (2 years) &nbsp;&nbsp;&nbsp;&nbsp; Beijing, China  
 [Bluesky Volunteers' Association](https://baike.baidu.com/item/%E5%8C%97%E8%88%AA%E8%93%9D%E5%A4%A9%E5%BF%97%E6%84%BF%E8%80%85%E5%8D%8F%E4%BC%9A/3620192) of Beihang University is a registered member unit of the [Beijing Volunteer Federation](https://www.bv2008.cn/cate/en/), leading the volunteer activities of Beihang University.  
 I have led more than ten volunteer service projects.  
