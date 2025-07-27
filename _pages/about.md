@@ -12,7 +12,7 @@ redirect_from:
 
 Researcher at [Lenovo Research](https://research.lenovo.com/webapp/view_English/index.html).  
 
-I joined Intelligent Computing Infrastructure Laboratory (ICI Lab) lead by [Dr. Weifeng Zhang](https://research.lenovo.com/webapp/view_English/personal.html?id=541) of [Lenovo Research](https://research.lenovo.com/webapp/view_English/index.html) in July 2025.  
+I joined Intelligent Computing Infrastructure Laboratory (ICI Lab) lead by [Dr. Weifeng Zhang](https://research.lenovo.com/webapp/view_English/personal.html?id=541), [Lenovo Research](https://research.lenovo.com/webapp/view_English/index.html) in July 2025.  
 
 I received my master's degree of Data Science (Computer Science and Technology) at [Peking University](https://english.pku.edu.cn/) (PKU), Beijing, China in July 2025.
 I studied in [Academy for Advanced Interdisciplinary Studies](http://www.aais.pku.edu.cn/) (AAIS), PKU, supervised by Assistant Prof. [Yang Liu](http://www.csyangliu.com/) at [Wangxuan Institite of Computer Technology](https://www.icst.pku.edu.cn/) (WICT), PKU, from September 2022 to July 2025.    
@@ -31,7 +31,7 @@ My research now focus on **Privacy Enhanced Computing** and **Model Generalizati
 
 The publications are listed in time order, † denotes corresponding author.  
 
-- **AR-VRM: Imitating Human Motions for Visual Robot Manipulation with Analogical Reasoning**
+- **AR-VRM: Imitating Human Motions for Visual Robot Manipulation with Analogical Reasoning**  
 Dejie Yang, **Zijing Zhao**, Yang Liu†  
 The IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025 (CCF-A)  
 [[paper link](https://iccv.thecvf.com/virtual/2025/poster/2665)]  
