@@ -21,7 +21,7 @@ Published on _The AAAI Conference on Artificial Intelligence (**AAAI**), 2025 (*
 [[pdf](https://ojs.aaai.org/index.php/AAAI/article/download/32992/35147)] [[code](https://github.com/idejie/PlanLLM)] [[project page](https://idejie.com/PlanLLM_pages/)]   
 
 <div align="center">  
-  <img src="https://jeremyzhao1998.github.io/images/2023-mrt.png" alt="2023-mrt" width="800" />  
+  <img src="https://jeremyzhao1998.github.io/images/2025-planllm.png" alt="2023-mrt" width="700" />  
 </div>  
 
 <details>  
@@ -40,7 +40,7 @@ Published on _International Conference on Computer Vision (**ICCV**), 2023_
 [[pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Masked_Retraining_Teacher-Student_Framework_for_Domain_Adaptive_Object_Detection_ICCV_2023_paper.pdf)] [[supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Zhao_Masked_Retraining_Teacher-Student_ICCV_2023_supplemental.pdf)] [[code](https://github.com/JeremyZhao1998/MRT-release)] [[homepage](https://jeremyzhao1998.github.io/MRT-release/)]  
 
 <div align="center">  
-  <img src="https://jeremyzhao1998.github.io/images/2023-mrt.png" alt="2023-mrt" width="800" />  
+  <img src="https://jeremyzhao1998.github.io/images/2023-mrt.png" alt="2023-mrt" width="700" />  
 </div>  
 
 <details>  
@@ -59,7 +59,7 @@ Published on _Conference on Empirical Methods in Natural Language Processing: In
 [[pdf](https://aclanthology.org/2023.emnlp-industry.13.pdf)]  
 
 <div align="center">  
-  <img src="https://jeremyzhao1998.github.io/images/2023-samp.png" alt="2023-samp" width="400" />  
+  <img src="https://jeremyzhao1998.github.io/images/2023-samp.png" alt="2023-samp" width="350" />  
 </div>  
 
 <details>  
