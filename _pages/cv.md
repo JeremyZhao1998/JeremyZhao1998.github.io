@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-I expect to obtain my master's degree in July 2025, currently in the job-seeking stage, looking for internship positions with potential to full-time employment.
+I am now a researcher at Lenovo Research, and a member of Global Future Leader (GFL) program held by Lenovo Corp.
 
-I am interested in positions related to 2D/3D computer vision, VLMs, LLMs, or model lightweighting.
+My research now focus on Privacy Enhanced Computing, including watermakring strategies (software) and Trusted Execution Environments (TEE) (software-hardware co-design).
 
-If you find that my experiences align with the positions available at your company, please feel free to email me at **zhaozijing1998@qq.com**, and I will promptly reply with my updated resume.
+I am open to potential cooperation opportunities, please feel free to email me at **zhaozijing1998@qq.com**, and I will promptly reply with my updated resume.
