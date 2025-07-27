@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zijing (Jeremy) Zhao"
   avatar           : "profile2024.jpg"
-  bio              : "Postgraduate student at PKU (Peking University)"
+  bio              : "Researcher at Lenovo Research"
   location         : "Beijing, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=frRNkzkAAAAJ&hl=zh-CN"
-  email            : "zijingzhao@stu.pku.edu.cn"
+  email            : "zhaozj23@lenovo.com"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
