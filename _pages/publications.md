@@ -5,10 +5,29 @@ permalink: /publications/
 author_profile: true
 ---
 
-This section lists the selections of my publications.  
+This section lists the selections of my publications in time order.  
 You can also find my articles on my <u><a href="https://scholar.google.com/citations?user=frRNkzkAAAAJ">Google Scholar profile</a></u>, and my academic activities on my <u><a href="https://orcid.org/0000-0001-9810-1122">ORCID</a></u>.  
 
 {% include base_path %}
+
+***
+
+***  
+
+## PlanLLM: Video Procedure Planning with Refinable Large Language Models  
+
+Dejie Yang, **Zijing Zhao** and Yang Liu†  
+Published on _The AAAI Conference on Artificial Intelligence (**AAAI**), 2025 (**CCF-A**)_  
+[[pdf](https://ojs.aaai.org/index.php/AAAI/article/download/32992/35147)] [[code](https://github.com/idejie/PlanLLM)] [[project page](https://idejie.com/PlanLLM_pages/)]   
+
+<div align="center">  
+  <img src="https://jeremyzhao1998.github.io/images/2023-mrt.png" alt="2023-mrt" width="800" />  
+</div>  
+
+<details>  
+  <summary>Abstract (Click to unfold): </summary>  
+  Video procedure planning, ie, planning a sequence of action steps given the video frames of start and goal states, is an essential ability for embodied AI. Recent works utilize Large Language Models (LLMs) to generate enriched action step description texts to guide action step decoding. Although LLMs are introduced these methods decode the action steps into a closed-set of one-hot vectors, limiting the model's capability of generalizing to new steps or tasks. Additionally, fixed action step descriptions based on world-level commonsense may contain noise in specific instances of visual states. In this paper, we propose PlanLLM, a cross-modal joint learning framework with LLMs for video procedure planning. We propose an LLM-Enhanced Planning module which fully uses the generalization ability of LLMs to produce free-form planning output and to enhance action step decoding. We also propose Mutual Information Maximization module to connect world-level commonsense of step descriptions and sample-specific information of visual states, enabling LLMs to employ the reasoning ability to generate step sequences. With the assistance of LLMs, our method can both closed-set and open vocabulary procedure planning tasks. Our PlanLLM achieves superior performance on three benchmarks, demonstrating the effectiveness of our designs.  
+</details>  
 
 ***
 
