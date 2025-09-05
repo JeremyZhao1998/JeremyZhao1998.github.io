@@ -1,4 +1,4 @@
----
+<img width="804" height="81" alt="image" src="https://github.com/user-attachments/assets/32e53da8-0d83-413e-8573-4f60949745d5" /><img width="1215" height="81" alt="image" src="https://github.com/user-attachments/assets/0095d904-7c88-4722-8903-7e802b7c2728" />---
 permalink: /
 title: "Zijing (Jeremy) Zhao 赵子敬"
 excerpt: "About me"
@@ -19,7 +19,7 @@ I studied in [Academy for Advanced Interdisciplinary Studies](http://www.aais.pk
 
 I obtained my bachelor's degree of Computer Science and Techonology in [School of Computer Science and Engineering](https://scse.buaa.edu.cn/) (SCSE), [Beihang University](https://www.buaa.edu.cn/) (also known as Beijing University of Aeronautics and Astronautics, BUAA) in July 2021.  
 
-My research now focus on **Privacy Enhanced Computing** and **Model Generalization** in **Computer Vision** and **Multimodal Learning** scenarios.  
+My research now focus on **Privacy Enhanced Computing** scenarios.  
 
 ## Contact Information
 
@@ -31,24 +31,34 @@ My research now focus on **Privacy Enhanced Computing** and **Model Generalizati
 
 The publications are listed in time order, † denotes corresponding author.  
 
+- **Investigating Domain Gaps for Indoor 3D Object Detection**  
+**Zijing Zhao**, Zhu Xu, Qingchao Chen, Yuxin Peng, Yang Liu†  
+ACM International Conference on Multimedia (**ACM MM 2025**) (CCF-A)  
+[[arxiv](https://www.arxiv.org/abs/2508.17439)] [[code](https://github.com/JeremyZhao1998/DAVoteNet-release)] [[homepage](https://jeremyzhao1998.github.io/DAVoteNet-release/)]  
+
+- **Zero Shot Domain Adaptive Semantic Segmentation by Synthetic Data Generation and Progressive Adaptation**  
+Jun Luo, **Zijing Zhao**, Yang Liu†  
+IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS 2025**) (CCF-B) (**Oral**)  
+[[arxiv](https://arxiv.org/abs/2508.03300v1)] [[code](https://github.com/ROUJINN/SDGPA)]  
+
 - **AR-VRM: Imitating Human Motions for Visual Robot Manipulation with Analogical Reasoning**  
 Dejie Yang, **Zijing Zhao**, Yang Liu†  
-The IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025 (CCF-A)  
-[[paper link](https://iccv.thecvf.com/virtual/2025/poster/2665)]  
+The IEEE/CVF International Conference on Computer Vision (**ICCV 2025**) (CCF-A)  
+[[arxiv](https://arxiv.org/abs/2508.07626)]  
 
 - **PlanLLM: Video Procedure Planning with Refinable Large Language Models**  
 Dejie Yang, **Zijing Zhao**, Yang Liu†  
-The AAAI Conference on Artificial Intelligence (**AAAI**), 2025 (CCF-A)  
-[[pdf](https://ojs.aaai.org/index.php/AAAI/article/download/32992/35147)] [[code](https://github.com/idejie/PlanLLM)] [[project page](https://idejie.com/PlanLLM_pages/)]  
+The AAAI Conference on Artificial Intelligence (**AAAI 2025**) (CCF-A)  
+[[pdf](https://ojs.aaai.org/index.php/AAAI/article/download/32992/35147)] [[code](https://github.com/idejie/PlanLLM)] [[homepage](https://idejie.com/PlanLLM_pages/)]  
 
 - **Masked Retraining Teacher-Student Framework for Domain Adaptive Object Detection**  
 **Zijing Zhao**, Sitong Wei, Qingchao Chen, Dehui Li, Yifan Yang, Yuxin Peng, Yang Liu†  
-The IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023 (CCF-A)  
+The IEEE/CVF International Conference on Computer Vision (**ICCV 2023**) (CCF-A)  
 [[pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Masked_Retraining_Teacher-Student_Framework_for_Domain_Adaptive_Object_Detection_ICCV_2023_paper.pdf)] [[supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Zhao_Masked_Retraining_Teacher-Student_ICCV_2023_supplemental.pdf)] [[code](https://github.com/JeremyZhao1998/MRT-release)] [[homepage](https://jeremyzhao1998.github.io/MRT-release/)]  
 
 - **SAMP: A Model Inference Toolkit of Post-Training Quantization for Text Processing via Self-Adaptive Mixed-Precision**  
 Rong Tian†, **Zijing Zhao**, Weijie Liu, Haoyan Liu, Weiquan Mao, Zhe Zhao, Kan Zhou  
-Conference on Empirical Methods in Natural Language Processing: Industry Track (**EMNLP** Industry Track), 2023 (CCF-B)  
+Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**) (CCF-B)  
 [[pdf](https://aclanthology.org/2023.emnlp-industry.13.pdf)]  
 
 See more details at [Publications](https://jeremyzhao1998.github.io/publications/).  
@@ -71,13 +81,14 @@ Released on 2020.07, stable release.
 
 ## Working/Internship Experiences
 
-- **Researcher and member of Global Future Leader (GFL) program, [Lenovo Research](https://research.lenovo.com/)**  
+- **Researcher, [Lenovo Research](https://research.lenovo.com/)**  
+**Member of Global Future Leaders (GFL) program, [Lenovo Corp.](https://www.lenovo.com/)**  
 2025.07 till now &nbsp;&nbsp;&nbsp;&nbsp; Beijing, China  
 I am with Intelligent Computing Infrastructure Laboratory (ICI Lab), focusing on Privacy Enhanced Computing.
 
 - **Algorithm Engineering Intern, Technology and Engineering Group (TEG), [Tencent](https://www.tencent.com/)**  
 2022.02 - 2022.08 (6 months) &nbsp;&nbsp;&nbsp;&nbsp; Beijing, China  
-I built an end-to-end acceleration toolkit based on [CUDA](https://developer.nvidia.com/cuda-toolkit) and [CUBLAS](https://developer.nvidia.com/cublas) for the inference of Transformer models, including parallelled acceleration for tokenizers and mixed precision of INT8 quantization for Transformers.
+I built an end-to-end acceleration toolkit for the inference of Transformer models, including parallelled acceleration for tokenizers and mixed precision of INT8 quantization for Transformers.
 
 - **Research Intern, Business Intelligence Lab, [Baidu Research](http://research.baidu.com/)**  
 2021.03 - 2021.09 (6 months) &nbsp;&nbsp;&nbsp;&nbsp; Beijing, China  
