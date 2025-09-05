@@ -1,4 +1,4 @@
-<img width="804" height="81" alt="image" src="https://github.com/user-attachments/assets/32e53da8-0d83-413e-8573-4f60949745d5" /><img width="1215" height="81" alt="image" src="https://github.com/user-attachments/assets/0095d904-7c88-4722-8903-7e802b7c2728" />---
+---
 permalink: /
 title: "Zijing (Jeremy) Zhao 赵子敬"
 excerpt: "About me"
