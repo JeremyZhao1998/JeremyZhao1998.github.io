@@ -17,7 +17,7 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 ## PlanLLM: Video Procedure Planning with Refinable Large Language Models  
 
 Dejie Yang, **Zijing Zhao** and Yang Liu†  
-Published on _The AAAI Conference on Artificial Intelligence (**AAAI**), 2025 (**CCF-A**)_  
+Published on _The AAAI Conference on Artificial Intelligence (**AAAI 2025**)_ (CCF-A)  
 [[pdf](https://ojs.aaai.org/index.php/AAAI/article/download/32992/35147)] [[code](https://github.com/idejie/PlanLLM)] [[project page](https://idejie.com/PlanLLM_pages/)]   
 
 <div align="center">  
@@ -35,8 +35,8 @@ Published on _The AAAI Conference on Artificial Intelligence (**AAAI**), 2025 (*
 
 ## Masked Retraining Teacher-student Framework for Domain Adaptive Object Detection  
 
-By **Zijing Zhao**, Sitong Wei, Qingchao Chen, Dehui Li, Yifan Yang, Yuxin Peng and Yang Liu†  
-Published on _International Conference on Computer Vision (**ICCV**), 2023_  
+**Zijing Zhao**, Sitong Wei, Qingchao Chen, Dehui Li, Yifan Yang, Yuxin Peng and Yang Liu†  
+Published on _International Conference on Computer Vision (**ICCV 2023**)_ (CCF-A)  
 [[pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_Masked_Retraining_Teacher-Student_Framework_for_Domain_Adaptive_Object_Detection_ICCV_2023_paper.pdf)] [[supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Zhao_Masked_Retraining_Teacher-Student_ICCV_2023_supplemental.pdf)] [[code](https://github.com/JeremyZhao1998/MRT-release)] [[homepage](https://jeremyzhao1998.github.io/MRT-release/)]  
 
 <div align="center">  
@@ -54,8 +54,8 @@ Published on _International Conference on Computer Vision (**ICCV**), 2023_
 
 ## SAMP: A Model Inference Toolkit of Post-Training Quantization for Text Processing via Self-Adaptive Mixed-Precision  
 
-By Rong Tian†, **Zijing Zhao**, Weijie Liu, Haoyan Liu, Weiquan Mao, Zhe Zhao and Kan Zhou  
-Published on _Conference on Empirical Methods in Natural Language Processing: Industry Track (**EMNLP** Industry Track), 2023_  
+Rong Tian†, **Zijing Zhao**, Weijie Liu, Haoyan Liu, Weiquan Mao, Zhe Zhao and Kan Zhou  
+Published on _Conference on Empirical Methods in Natural Language Processing: Industry Track (**EMNLP 2023**)_ (CCF-B)  
 [[pdf](https://aclanthology.org/2023.emnlp-industry.13.pdf)]  
 
 <div align="center">  
