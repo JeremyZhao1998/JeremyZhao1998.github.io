@@ -38,7 +38,7 @@ ACM International Conference on Multimedia (**ACM MM 2025**) (CCF-A)
 
 - **Zero Shot Domain Adaptive Semantic Segmentation by Synthetic Data Generation and Progressive Adaptation**  
 Jun Luo, **Zijing Zhao**, Yang Liu†  
-IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS 2025**) (CCF-B) (**Oral**)  
+IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS 2025**) (**Oral**)  
 [[arxiv](https://arxiv.org/abs/2508.03300v1)] [[code](https://github.com/ROUJINN/SDGPA)]  
 
 - **AR-VRM: Imitating Human Motions for Visual Robot Manipulation with Analogical Reasoning**  
