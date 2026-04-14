@@ -19,7 +19,7 @@ I studied in [Academy for Advanced Interdisciplinary Studies](http://www.aais.pk
 
 I obtained my bachelor's degree of Computer Science and Techonology in [School of Computer Science and Engineering](https://scse.buaa.edu.cn/) (SCSE), [Beihang University](https://www.buaa.edu.cn/) (also known as Beijing University of Aeronautics and Astronautics, BUAA) in July 2021.  
 
-My research now focus on **Privacy Enhanced Computing** scenarios.  
+My current research focuses on: **1. Enterprise AI Agent Platform; 2. Energy Efficient AI System**.  
 
 ## Contact Information
 
@@ -29,7 +29,16 @@ My research now focus on **Privacy Enhanced Computing** scenarios.
 
 ## Publications
 
-The publications are listed in time order, † denotes corresponding author.  
+The publications are listed in time order, \* denotes equal contribution, † denotes corresponding author.  
+
+- **SIGMark: Scalable In-Generation Watermark with Blind Extraction for Video Diffusion**  
+Xinjie Zhu\*, **Zijing Zhao**\*, Hui Jin, Qingxiao Guo, Yilong Ma, Yunhao Wang, Xiaobing Guo, Weifeng Zhang†  
+[[homepage](https://jeremyzhao1998.github.io/SIGMark-release/)] [[arxiv](https://arxiv.org/abs/2603.02882)] [[pdf](https://openreview.net/pdf?id=tKyAD2LhnI)] [[supp](https://openreview.net/attachment?id=tKyAD2LhnI&name=supplementary_material)] [[code](https://github.com/JeremyZhao1998/SIGMark-release)]  
+
+- **Confidence-Aware Pseudo-Label Self-Correction for Weakly Supervised Visual Grounding**  
+Yang Liu, Jiahua Zhang, Yue Wu, **Zijing Zhao**, Qingchao Chen, Yuxin Peng†  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI 2026**)  
+[[ieee](https://ieeexplore.ieee.org/abstract/document/11433810)]  
 
 - **Investigating Domain Gaps for Indoor 3D Object Detection**  
 **Zijing Zhao**, Zhu Xu, Qingchao Chen, Yuxin Peng, Yang Liu†  
@@ -44,7 +53,7 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS 2025
 - **AR-VRM: Imitating Human Motions for Visual Robot Manipulation with Analogical Reasoning**  
 Dejie Yang, **Zijing Zhao**, Yang Liu†  
 The IEEE/CVF International Conference on Computer Vision (**ICCV 2025**) (CCF-A)  
-[[arxiv](https://arxiv.org/abs/2508.07626)]  
+[[arxiv](https://arxiv.org/abs/2508.07626)] [[code](https://github.com/idejie/AR)] [[homepage](https://idejie.com/AR/)]  
 
 - **PlanLLM: Video Procedure Planning with Refinable Large Language Models**  
 Dejie Yang, **Zijing Zhao**, Yang Liu†  
