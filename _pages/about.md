@@ -33,11 +33,12 @@ The publications are listed in time order, \* denotes equal contribution, † de
 
 - **SIGMark: Scalable In-Generation Watermark with Blind Extraction for Video Diffusion**  
 Xinjie Zhu\*, **Zijing Zhao**\*, Hui Jin, Qingxiao Guo, Yilong Ma, Yunhao Wang, Xiaobing Guo, Weifeng Zhang†  
+the Fourteenth International Conference on Learning Representations (**ICLR 2026**) (CCF-A)  
 [[homepage](https://jeremyzhao1998.github.io/SIGMark-release/)] [[arxiv](https://arxiv.org/abs/2603.02882)] [[pdf](https://openreview.net/pdf?id=tKyAD2LhnI)] [[supp](https://openreview.net/attachment?id=tKyAD2LhnI&name=supplementary_material)] [[code](https://github.com/JeremyZhao1998/SIGMark-release)]  
 
 - **Confidence-Aware Pseudo-Label Self-Correction for Weakly Supervised Visual Grounding**  
 Yang Liu, Jiahua Zhang, Yue Wu, **Zijing Zhao**, Qingchao Chen, Yuxin Peng†  
-IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI 2026**)  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI 2026**) (CCF-A)  
 [[ieee](https://ieeexplore.ieee.org/abstract/document/11433810)]  
 
 - **Investigating Domain Gaps for Indoor 3D Object Detection**  
